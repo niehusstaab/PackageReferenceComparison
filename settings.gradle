@@ -1,0 +1,5 @@
+rootProject.name = "DummyApp"
+include ':app'
+include ':Singleton'
+include ':DepOne'
+include ':DepTwo'
